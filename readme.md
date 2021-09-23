@@ -28,4 +28,5 @@ How it works
 
 * Once connected send cmd commands like dir, mkdir, etc.
 
-* Type exit to disconnect from the client.```
+* Type exit to disconnect from the client.
+```
